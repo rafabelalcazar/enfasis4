@@ -1,0 +1,4 @@
+li { cursor: pointer; user-select: none }
+.ui-state-default{
+    background-color: rgb(240, 240, 240);
+}
