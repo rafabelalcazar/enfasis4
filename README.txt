@@ -1,3 +1,11 @@
+#Enfasis 4: Gestor de Test de apredizaje
+Este proyecto es el código base de los test de Aprendizaje que se implementarán en OpenEDX.
+
+## Instrucciones
+Descarga el repositorio y abre el archivo kolb.html.
+Felipoy Davincho: Comprueba que los elementos de la lista son arrastables y se auto-ordenan.
+
+##
 This static directory is for files that should be included in your kit as plain
 static files.
 
